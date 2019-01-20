@@ -1,4 +1,4 @@
-![DataSelf Logo](DataSelf_400x80.jpg)
+![image1](DataSelf_400x80.jpg)
 # This is a test - title
 And instructions
 ## Title level 2
